@@ -25,7 +25,7 @@ This stacked bar plot displays the relative abundance of major phyla. We observe
 
 ### 2. Alpha Diversity (Shannon Index)
 Alpha diversity was calculated to measure within-sample complexity. This boxplot highlights the difference in microbial richness and evenness between the two body sites.
-![Alpha Diversity](results/figures/shannon_index.png)
+![Alpha Diversity](results/figures/Shannon_index.png)
 
 ### 3. Beta Diversity (PCoA)
 Principal Coordinates Analysis (PCoA) based on Bray-Curtis dissimilarity shows clear clustering. The distinct separation proves that body site is the primary driver of microbial community structure in this study.
