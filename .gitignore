@@ -1,0 +1,10 @@
+# Ignore large data files
+data/raw/
+data/trimmed/
+
+# Ignore large QC zip files (keep the HTML reports)
+results/qc/*.zip
+results/qc/multiqc_data/
+
+# Ignore system files
+.DS_Store
