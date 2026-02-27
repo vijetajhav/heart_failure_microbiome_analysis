@@ -20,7 +20,10 @@ This project analyzes the taxonomic composition of the skin and fecal microbiome
 ## Visualizations
 
 ### 1. Taxonomic Composition
-This stacked bar plot displays the relative abundance of major phyla. We observe that **Actinomycetota** is a hallmark of skin samples, while **Bacteroidota** is characteristic of the fecal microbiome in these patients.
+This stacked bar plot displays the relative abundance of major phyla across 10 samples.
+- **Bacteroidota (Blue):** Identified as a site-specific biomarker for fecal samples, being nearly absent in skin profiles.
+- **Actinomycetota (Green):** Shows high prevalence in skin samples, particularly in SRR37201881.
+- **Bacillota (Orange):** Remains a dominant core phylum across both body sites.
 ![Microbiome Composition](results/figures/microbiome_composition_final.png)
 
 ### 2. Alpha Diversity (Shannon Index)
